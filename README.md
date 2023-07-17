@@ -1,7 +1,8 @@
 # Brief
 
   The repos is to show the basic fundamental practice to advanced level in C/C++ coding.
-  The repos is also to append more refernce about `library`, `practice`, `coding stuff`, includinf the reference of 3D, AI, CV, CUDA... etc 
+  
+  The repos is also to append more refernce about `library`, `practice`, `coding stuff`, incluing the reference of 3D, AI, CV, CUDA... etc 
 
 # Items
 
